@@ -4,6 +4,7 @@ vm:
   size: [large]
   
 language: java
+
 services:
   - docker
 cache: bundler
